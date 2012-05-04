@@ -14,5 +14,6 @@
 (require 'epy-completion)
 (require 'epy-editing)
 (require 'epy-bindings)
+(epy-django-snippets)
 
 (provide 'epy-init)
